@@ -101,5 +101,5 @@ Sim4Life (FDTD EM simulation) · PCB fabrication · 3D printing (PETG) · Vector
 
 ## Author
 
-Matej Dynda — [LinkedIn](https://linkedin.com/in/matej-dynda)
+Matej Dynda
 Supervisor: Prof. Ing. Jan Vrba, CSc. — Department of Electromagnetic Field, CTU Prague
